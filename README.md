@@ -49,5 +49,15 @@ data = np.loadtxt("your_data.csv", delimiter=",")
 
 # Run SSED logic (iterative refinement)
 # See SSED.py for the full recursive implementation
+```
+
+Citation
+If you use this code or the SSED algorithm in your research, please cite our paper:
+
+Adaptive Subtype and Stage Inference for Alzheimer's Disease > Xinkai Wang, Yonggang Shi
+
+Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024 > DOI: 10.1007/978-3-031-72384-1_5
+
+PMID: 39376664 | PMCID: PMC11632966
 
 PMID: 39376664 | PMCID: PMC11632966
