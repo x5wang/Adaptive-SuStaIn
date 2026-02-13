@@ -44,7 +44,8 @@ The core function `Run_SE_Recurse` (or the SSED logic in the script) performs th
 python SSED.py
 ```
 
-Citation
+## Citation
+
 If you use this code or the SSED algorithm in your research, please cite our paper:
 
 Adaptive Subtype and Stage Inference for Alzheimer's Disease > Xinkai Wang, Yonggang Shi
